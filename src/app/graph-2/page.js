@@ -17,15 +17,15 @@ function GraphTwo() {
           height="600px"
         />
         <DatawrapperGraph
-          src="https://datawrapper.dwcdn.net/vYw9i/1/"
+          src="https://datawrapper.dwcdn.net/IueoR/1/"
           height="600px"
         />
         <DatawrapperGraph
-          src="https://datawrapper.dwcdn.net/vYw9i/1/"
+          src="https://datawrapper.dwcdn.net/YlUPI/1/"
           height="600px"
         />
         <DatawrapperGraph
-          src="https://datawrapper.dwcdn.net/vYw9i/1/"
+          src="https://datawrapper.dwcdn.net/EW5p6/1/"
           height="600px"
         />
       </div>
